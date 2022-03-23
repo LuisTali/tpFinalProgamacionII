@@ -6,3 +6,5 @@
 -El admin puede modificar los datos de los usuarios, los datos de las canciones, las cuentas y canciones activas dentro de la plataforma y se le permite mostrar la lista de usuarios y canciones totales, filtradas por nombre o id.
 
 -Si queremos modificar los datos del admin, debemos agregar la funcion "void crearArchAdmin()" al main, ejecutar el codigo, ingresar los nuevos datos, finalizar la ejecucion y quitar la funcion del main. 
+
+-Codeado en noviembre de 2021.
